@@ -33,6 +33,7 @@
 .footer-data div{
     display: flex;
 }
-.service-code p{
+/* .service-code {
     border: 1px white;
-}
+    border-radius: 1px;
+} */
